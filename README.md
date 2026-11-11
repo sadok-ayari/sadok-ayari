@@ -44,6 +44,7 @@ Counterparties are not named here. Their names, countries and figures stay with 
 |---|---|
 | [**evidence-ledger**](https://github.com/sadok-ayari/evidence-ledger) | A deterministic gate for unsourced claims. No source, no ship; passes or blocks in CI. |
 | [**arabic-first-docs**](https://github.com/sadok-ayari/arabic-first-docs) | Arabic-first Word documents: direction set at four levels, then verified by reading the file back. |
+| [**campaign-companion**](https://github.com/sadok-ayari/campaign-companion) | A bilingual campaign tool where nothing reads "Approved" until a person approves it. [Live demo](https://sadok-ayari.github.io/campaign-companion/). |
 | *register-check* (in build) | Parity and register checks between the English and Arabic versions of one document. |
 
 ## How I work
