@@ -1,19 +1,25 @@
 # Sadok Ayari
 
-**Strategic communications for climate and development programmes. AI as the production layer, evidence as the standard.**
+**Strategic communications for climate and development. Fifteen years across multilateral institutions, sovereign ministries and listed energy companies.**
 
-Independent practice: [Awal](https://awalcom.net). Currently advising international organisations on climate and development communications.
+MENA Communications Lead at the Global Green Growth Institute. Previously the World Bank and QatarEnergy. Practice: [Awal](https://awalcom.net).
 
-## The problem I work on
+## What fifteen years buys
 
-A ministry does not read a report. It reads one paragraph, then asks who stands behind it. Models made that paragraph cheap to produce and no cheaper to defend, so the useful engineering is not better prose. It is the small set of gates around the prose that let a machine-speed process survive a human review: evidence a reader can point to, a register that belongs to the counterpart rather than to the adviser, and Arabic and English that say the same thing.
+- **Crisis and reputation.** Eight years at the World Bank in Tunisia through a debt crisis, a democratic transition and a pandemic, where the work was holding an institution's credibility together while the ground moved.
+- **Investor-grade disclosure.** Four listed companies at QatarEnergy: annual reports, results announcements, AGMs, executive speaking material, and the discipline of writing for a regulator and a market at the same time.
+- **Regional programme communications.** Five MENA country programmes on one editorial standard, from a national campaign under ministerial review to a blended-finance programme spanning three thematic pillars.
 
-The repositories here are working tools from that practice, published without client material.
+## Where AI fits, and where it does not
+
+Models made a competent paragraph cheap. They did not make it defensible, and in this field the defensible paragraph is the whole product: a claim a minister can repeat, a figure a donor can audit, an Arabic and an English version that say the same thing.
+
+So the useful engineering is not better generation. It is the gates around it: evidence a reviewer can point to, a register that belongs to the counterpart rather than to the adviser, and a deterministic check that fails a brief rather than flattering it. I use AI as the production layer and keep human-grade attribution on top. The repository here is the gate.
 
 ## What I bring
 
-- **Narrative into instrument.** Programme evidence turned into the artefact a counterpart can actually sign: a one-page brief, a prospectus section, a KPI line, a ministerial note.
-- **Bilingual as one asset.** English and Arabic authored as a single conceptual object, Arabic set first when the audience is Arabic, never a translation pass bolted on at the end.
+- **Narrative into instrument.** Programme evidence turned into the artefact a counterpart can sign: a one-page brief, a prospectus section, a KPI line, a ministerial note.
+- **Bilingual as one asset.** English and Arabic authored as one conceptual object, Arabic set first when the audience is Arabic, never a translation pass bolted on at the end.
 - **Agentic production.** A library of procedural skills that lets a small team hold the volume, consistency and audit trail of a much larger one.
 
 ## How the work looks
@@ -23,7 +29,7 @@ The repositories here are working tools from that practice, published without cl
 - A regional editorial and reporting architecture across five country programmes, one standard for what gets published and what gets filed.
 - An evidence gate in front of every brief that reaches a counterpart, so nothing ships without a source.
 
-Clients are not named here. Names, countries and figures stay with them.
+Counterparties are not named here. Their names, countries and figures stay with them.
 
 ## Working artifacts
 
@@ -41,4 +47,4 @@ Clients are not named here. Names, countries and figures stay with them.
 
 ## Elsewhere
 
-[awalcom.net](https://awalcom.net) · strategy@awalcom.net
+[LinkedIn](https://www.linkedin.com/in/sadokayari/) · [awalcom.net](https://awalcom.net) · strategy@awalcom.net
