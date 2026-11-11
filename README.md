@@ -1,5 +1,7 @@
 # Sadok Ayari
 
+<img src="docs/portrait.jpg" width="170" align="right" alt="Sadok Ayari" />
+
 **Strategic communications, stakeholder engagement and agentic AI. Fifteen years across multilateral institutions, sovereign ministries and listed energy companies.**
 
 MENA Communications Lead at the Global Green Growth Institute. Previously the World Bank and QatarEnergy. Practice: [Awal](https://awalcom.net).
