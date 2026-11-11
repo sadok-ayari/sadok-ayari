@@ -20,9 +20,10 @@ The useful engineering is not better generation. It is the gates around it: evid
 
 ## What I bring
 
+- **The bridge, not the middle.** I can structure an agent library and hold a room with a minister in the same week, so the technical side and the institutional side do not need a translator between them.
 - **Narrative into instrument.** Programme evidence turned into the artefact a counterpart can sign: a one-page brief, a prospectus section, a KPI line, a ministerial note.
-- **Bilingual as one asset.** English and Arabic authored as one conceptual object, Arabic set first when the audience is Arabic, never a translation pass bolted on at the end.
-- **Agentic production.** A library of procedural skills that lets a small team hold the volume, consistency and audit trail of a much larger one.
+- **Three languages, one voice.** Arabic, English and French. Arabic and English are authored as one conceptual object, Arabic set first when the audience is Arabic, never a translation pass bolted on at the end. French carries the stakeholder room where that is the working language.
+- **Agentic production.** A library of procedural skills that lets a small team hold the volume, consistency and audit trail of a much larger one, with judgement kept human where it changes the outcome.
 
 ## How the work looks
 
