@@ -1,6 +1,6 @@
 # Sadok Ayari
 
-**Strategic communications for climate and development. Fifteen years across multilateral institutions, sovereign ministries and listed energy companies.**
+**Strategic communications, stakeholder engagement and agentic AI. Fifteen years across multilateral institutions, sovereign ministries and listed energy companies.**
 
 MENA Communications Lead at the Global Green Growth Institute. Previously the World Bank and QatarEnergy. Practice: [Awal](https://awalcom.net).
 
@@ -9,6 +9,7 @@ MENA Communications Lead at the Global Green Growth Institute. Previously the Wo
 - **Crisis and reputation.** Eight years at the World Bank in Tunisia through a debt crisis, a democratic transition and a pandemic, where the work was holding an institution's credibility together while the ground moved.
 - **Investor-grade disclosure.** Four listed companies at QatarEnergy: annual reports, results announcements, AGMs, executive speaking material, and the discipline of writing for a regulator and a market at the same time.
 - **Regional programme communications.** Five MENA country programmes on one editorial standard, from a national campaign under ministerial review to a blended-finance programme spanning three thematic pillars.
+- **Stakeholder rooms.** Ministers, donors, boards and civil society, in three languages, often in the same week and never with the same script.
 
 ## Where AI fits, and where it does not
 
@@ -30,6 +31,7 @@ The useful engineering is not better generation. It is the gates around it: evid
 - A multi-year national climate awareness campaign, Arabic-first from the first draft: a creative and editorial system built to run before a public launch rather than after it.
 - A blended-finance programme spanning three thematic pillars, with one narrative frame serving the ministry, the financier and the delivery team at once.
 - A regional editorial and reporting architecture across five country programmes, one standard for what gets published and what gets filed.
+- An agentic production layer behind a small team: procedures that draft, check and file, so the volume of a larger unit is held without adding headcount.
 - An evidence gate in front of every brief that reaches a counterpart, so nothing ships without a source.
 
 Counterparties are not named here. Their names, countries and figures stay with them.
@@ -46,7 +48,8 @@ Counterparties are not named here. Their names, countries and figures stay with 
 
 1. Every claim carries a source, or it does not ship.
 2. The voice belongs to the client, never to the agency.
-3. Verify in the artefact, not in the summary.
+3. Write in the language of the room, and mean the same thing in each.
+4. Automate the assembly, never the judgement.
 
 ## Elsewhere
 
