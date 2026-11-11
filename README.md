@@ -36,7 +36,7 @@ Counterparties are not named here. Their names, countries and figures stay with 
 | Repository | What it proves |
 |---|---|
 | [**evidence-ledger**](https://github.com/strategy-awal/evidence-ledger) | A deterministic gate for unsourced claims. No source, no ship; passes or blocks in CI. |
-| *arabic-first-docs* (in build) | Arabic-first DOCX and PPTX production with correct bidirectional text, so a document is right before anyone reviews it. |
+| [**arabic-first-docs**](https://github.com/strategy-awal/arabic-first-docs) | Arabic-first Word documents: direction set at four levels, then verified by reading the file back. |
 | *register-check* (in build) | Parity and register checks between the English and Arabic versions of one document. |
 
 ## How I work
