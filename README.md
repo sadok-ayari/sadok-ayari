@@ -12,9 +12,11 @@ MENA Communications Lead at the Global Green Growth Institute. Previously the Wo
 
 ## Where AI fits, and where it does not
 
-Models made a competent paragraph cheap. They did not make it defensible, and in this field the defensible paragraph is the whole product: a claim a minister can repeat, a figure a donor can audit, an Arabic and an English version that say the same thing.
+Two people fail this work. The engineer who can wire an agent but has never carried a ministry's sign-off. The communicator who writes beautifully but cannot make a model do anything reproducible. I have been both, and the value is the bridge between them.
 
-So the useful engineering is not better generation. It is the gates around it: evidence a reviewer can point to, a register that belongs to the counterpart rather than to the adviser, and a deterministic check that fails a brief rather than flattering it. I use AI as the production layer and keep human-grade attribution on top. The repository here is the gate.
+Fifteen years in strategic communications and stakeholder engagement taught me what a document has to survive: a claim a minister can repeat, a figure a donor can audit, an Arabic and an English version that say the same thing. Deep work in agentic AI taught me what these tools can be made to do when someone knows how to structure them: a library of procedures that drafts at the speed of a team and leaves a trail a reviewer can follow.
+
+The useful engineering is not better generation. It is the gates around it: evidence a reviewer can point to, a register that belongs to the counterpart rather than to the adviser, a check that fails a brief rather than flatters it. The models are the production layer; my judgement stays on top. The repositories here are the proof that I can sit on both sides of the gap and make them speak to each other.
 
 ## What I bring
 
