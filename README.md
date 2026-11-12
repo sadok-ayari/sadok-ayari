@@ -1,6 +1,5 @@
 # Sadok Ayari
 
-<img src="docs/portrait.jpg" width="170" align="right" alt="Sadok Ayari" />
 
 **Strategic communications, stakeholder engagement and agentic AI. Fifteen years across multilateral institutions, sovereign ministries and listed energy companies.**
 
