@@ -44,7 +44,7 @@ Counterparties are not named here. Their names, countries and figures stay with 
 |---|---|
 | [**source-gate**](https://github.com/sadok-ayari/source-gate) | Fails a brief that makes a claim without a source. Deterministic, no model in the loop. |
 | [**arabic-first-docs**](https://github.com/sadok-ayari/arabic-first-docs) | Arabic-first Word documents: direction set at four levels, then verified by reading the file back. |
-| [**comms-skills**](https://github.com/sadok-ayari/comms-skills) | Ready-to-use agent skills: bilingual parity, sourced terminology registers, press release review. Drop a folder in and it works. |
+| [**comms-skills**](https://github.com/sadok-ayari/comms-skills) | Six ready-to-use agent skills for comms work: formal Arabic correspondence, voice registers, bilingual parity, terminology, press release review, delivery gate. Drop a folder in and it works. |
 | [**campaign-companion**](https://github.com/sadok-ayari/campaign-companion) | A bilingual campaign tool where nothing reads "Approved" until a person approves it. [Live demo](https://sadok-ayari.github.io/campaign-companion/). |
 
 ## How I work
